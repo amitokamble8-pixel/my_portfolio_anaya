@@ -23,7 +23,7 @@ export const PROFILE = {
     schoolhouse: "https://schoolhouse.world/portfolio/85acb584-0628-4fa3-bb34-b6426b7d18dc",   // ← add if you have one; the Contact card is hidden while empty
     twitter: "",
   },
-  cv: "/placeholder.pdf",
+  cv: "",
 };
 
 export const NAV = [
