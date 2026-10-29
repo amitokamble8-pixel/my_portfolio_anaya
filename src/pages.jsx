@@ -34,7 +34,7 @@ const Hero = () => (
         <p className="hero-tag">{PROFILE.tagline}</p>
         <div className="cta-row">
           <Link className="btn btn-primary" to="/research">See My Research <Arrow /></Link>
-          <a className="btn btn-ghost" href={PROFILE.cv} download>View My Resume</a>
+         
         </div>
       </div>
     </div>
