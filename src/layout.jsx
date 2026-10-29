@@ -72,8 +72,7 @@ export function Navbar() {
             </NavLink>
           )
         )}
-        <span className="pill-divider" />
-        <a className="pill-link cv" href={PROFILE.cv} download><DownloadIcon /> CV</a>
+      
       </nav>
 
 
